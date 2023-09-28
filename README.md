@@ -1,2 +1,2 @@
 # Credit_Card_Fraud_detection_and_score_classification
-"Utilizing advanced AI algorithms, our system seamlessly identifies and categorizes financial transactions, safeguarding against credit card fraud while delivering precise risk scores for effective risk management and fraud prevention."
+"Building a robust front-end for our cutting-edge project: Real-time Credit Card Fraud Detection & Score Classification. Empowering users with intuitive visuals and instant insights for secure financial transactions. Stay protected, stay informed."
